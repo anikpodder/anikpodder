@@ -98,5 +98,3 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/anikpodder/anikpodder/output/snake.svg" alt="Snake animation" />
-
