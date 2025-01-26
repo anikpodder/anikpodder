@@ -41,13 +41,15 @@
 - ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 
 ### Technologies:
-- ![Oracle Database](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23377628?style=for-the-badge&logo=python&logoColor=white)
-- ![OOP](https://img.shields.io/badge/OOP-%23009E5B?style=for-the-badge&logo=java&logoColor=white)
-- ![DBMS](https://img.shields.io/badge/DBMS-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-- ![DSA](https://img.shields.io/badge/DSA-%23377628?style=for-the-badge&logo=python&logoColor=white)
+- ![React.js](https://img.shields.io/badge/React.js-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7A900?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### Tools:
+- ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - ![NetBeans](https://img.shields.io/badge/NetBeans-%23E8B800?style=for-the-badge&logo=netbeans&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,6 +58,8 @@
 - ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?style=for-the-badge&logo=latex&logoColor=white)
 - ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 - ![MS Office](https://img.shields.io/badge/MS%20Office-%23D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+
 
 
 ---
@@ -73,6 +77,13 @@
   <img src="./ICPC 2023.jpg" alt="ICPC Dhaka Regional 2023" width="400" />
 </p>
 <p>A step forward in ICPC 2023, proudly representing my university.</p>
+
+### **🎖️ Participated in ICPC Dhaka Regional 2024**
+<p align="center">
+  <img src="./ICPC 2024.jpg" alt="ICPC Dhaka Regional 2024" width="800" />
+</p>
+<p>A remarkable experience in ICPC 2024, continuing the journey of representing my university with pride and determination.</p>
+
 
 ### **🥇 4th Intra-University Programming Contest (IUPC)**
 <p align="center">
